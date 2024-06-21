@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086339369048",
+    "project_id": "techyvivekraj-54ef6",
+    "storage_bucket": "techyvivekraj-54ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086339369048:android:4d197d05fef5a3f081622d",
+        "android_client_info": {
+          "package_name": "com.example.hospital_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjQpEqk09KbyoGrDvXl6KPx0FOfL132I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
