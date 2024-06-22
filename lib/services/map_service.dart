@@ -7,7 +7,7 @@ import 'dart:convert';
 
 class MapService {
   BitmapDescriptor hospitalIcon = BitmapDescriptor.defaultMarker;
-  String googleKey = "AIzaSyBCMJ-LYHH4Uv5l_mkkRsyR5j8SqkXqgwk";
+  String googleKey = "replae me";
   Future<Position> getCurrentLocation() async {
     bool serviceEnabled;
     LocationPermission permission;
